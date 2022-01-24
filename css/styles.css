@@ -98,11 +98,11 @@
     .contacts-list .link:hover {
     color: var(--accent-color);
     }
-    .name {
+    .hero {
     background-color: var(--title-fon-color);
     text-decoration: none;
     }
-    .name-title {
+    .hero-title {
     color: var(--text-color-footer);
     font-style: normal;
     font-weight: 900;
@@ -203,9 +203,6 @@
     }
     .title {
         color: var(--primery-text-color);
-        /*text-decoration: none;
-        font-style: normal;
-        font-weight: 700;*/
         font-size: 18px;
         line-height: 2;
         letter-spacing: 0.06em;
