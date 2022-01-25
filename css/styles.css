@@ -10,7 +10,7 @@
     --nav-color: #212121;
     --button-background: #F5F4FA;
     }
-    p, h1, h2, h3 {
+    p, h1, h2, h3, h4, h5, h6 {
         margin: 0;
     }
     ul {
